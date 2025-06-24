@@ -1,0 +1,8 @@
+| Feature       | Description                          |
+| ------------- | ------------------------------------ |
+| Login         | JWT-based secure login               |
+| Submit Action | Upload image, select action type     |
+| Get Coins     | Carbon estimated → GreenCoins minted |
+| Wallet        | View coin balance and action history |
+| Dashboard     | See total carbon saved, badges       |
+| Leaderboard   | Compare users                        |
