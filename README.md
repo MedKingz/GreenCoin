@@ -1,1 +1,3 @@
 # GreenCoin
+
+print("Hello World!")
