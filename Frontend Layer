@@ -1,0 +1,22 @@
+📱 5. Frontend (Mobile + Desktop App)
+Tech Stack: Kivy (Python), or Flutter (w/ API backend)
+
+Screens:
+
+Home: Daily tips, quick action submit
+
+Action Submit: Upload photo, type of action, location, date
+
+Wallet: Coin balance, history, redeem options
+
+Dashboard: Charts, leaderboard, carbon impact
+
+Settings/Login: Secure auth, privacy
+
+Learning Outcomes:
+
+UI design with real data
+
+REST API integration
+
+Image uploads + preview
