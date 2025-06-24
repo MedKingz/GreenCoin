@@ -1,0 +1,20 @@
+🔐 3. Cybersecurity + Authentication
+Purpose: Keep the system fair, tamper-proof, and safe
+
+Techniques:
+
+Encrypted login with JWT or OAuth2
+
+Secure API access between frontend/backend
+
+Validate image uploads (anti-spam, image metadata checks)
+
+Prevent manipulation of local state to get more coins
+
+Learning Outcomes:
+
+Token-based auth (JWT)
+
+Secure API design
+
+Tampering and abuse prevention
