@@ -1,3 +1,0 @@
-# GreenCoin
-
-print("Hello World!")
